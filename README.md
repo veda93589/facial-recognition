@@ -1,1 +1,2 @@
 # facial-recognition
+Project Details- Using OpenCV to capture positive and negative images. The negative images is downloaded online, then these are made into dataset using numpy. The label encoders are use to give positive, anchor images 1 which means its correct and 0 to positive, negative images. The distance layer is created to check the similarities between the images and give out either 0 or 1. This done with the help of Siamese neural network.
